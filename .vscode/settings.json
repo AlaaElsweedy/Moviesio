@@ -1,0 +1,14 @@
+{
+        "cSpell.words": [
+                "cupertino",
+                "dartz",
+                "datasource",
+                "imdb",
+                "moviesio",
+                "usecase",
+                "usecases"
+        ],
+        "files.autoSave": "onFocusChange",
+        "editor.wordWrap": "off",
+        "editor.wordWrapColumn": 80,
+}
